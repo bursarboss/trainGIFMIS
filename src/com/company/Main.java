@@ -10,6 +10,8 @@ public class Main {
 	System.out.println(goat.getSound());
 	System.out.println(chicken.getFood());
 	chicken.setLegs(5);
-	System.out.println(chicken.getLegs());
+        System.out.println(chicken.getLegs());
+        System.out.println(goat.getLegs());
+        System.out.println(chicken.getFood());
     }
 }
